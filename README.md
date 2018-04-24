@@ -1,2 +1,2 @@
 # lecture-code-queueing
-Queueing to leave the screen.
+After you, I insist!
